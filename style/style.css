@@ -46,10 +46,12 @@ header a {
 
 header a:hover {
     color: rgb(47, 86, 86);
+    text-decoration: underline;
 }
 
 header a:focus-visible {
     color: rgb(47, 86, 86);
+    text-decoration: underline;
 }
 
 main {
@@ -101,8 +103,10 @@ footer p {
     main section {
         border: 0;
     }
-      main {
+    main {
         display: block;
+    }
+    article {
         break-inside: avoid;
     }
 }
