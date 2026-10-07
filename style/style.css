@@ -16,7 +16,7 @@ img {
 }
 
 h1, h2, h3 {
-    color: rgb(35, 77, 77);
+    color: #1F3D36;
 }
 
 header {
@@ -45,12 +45,12 @@ header a {
 }
 
 header a:hover {
-    color: rgb(47, 86, 86);
+    color: #6B7F78;
     text-decoration: underline;
 }
 
 header a:focus-visible {
-    color: rgb(47, 86, 86);
+    color: #6B7F78;
     text-decoration: underline;
 }
 
@@ -64,7 +64,7 @@ main {
 main section {
     margin: 15px;
     padding: 20px;
-    border: 1px solid rgb(184, 183, 183);
+    border: 1px solid #E9EEE9;
     border-radius: 20px;
 }
 h2, p {
